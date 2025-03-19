@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ```
 ### Downloading the Dataset
 
-Download the dataset from [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data) and save it as `DATA/Loan_Lending_Club.csv`.
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club) and save it as `DATA/Loan_Lending_Club.csv`.
 
 ### Training a Model
 Run the [`model_training.ipynb`](model_training.ipynb) notebook to:
